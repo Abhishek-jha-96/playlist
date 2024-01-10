@@ -18,4 +18,4 @@ make mirgations and then run
 
 Note: Please check for port Numbers and do not change them either the setting.py file 
 
-Demo Video Link:
+Demo Video Link: https://drive.google.com/file/d/1DEkMkpBbjH93NZrcbm_HPPjkQGfW4vYw/view?usp=sharing
